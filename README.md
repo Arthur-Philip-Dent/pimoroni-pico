@@ -159,4 +159,4 @@ We also maintain a C++/CMake boilerplate with GitHub workflows configured for te
 - :link: [Getting Started with Inky Frame](https://learn.pimoroni.com/article/getting-started-with-inky-frame)
 - :link: [Getting Started with Automation 2040 W (and Mini)](https://learn.pimoroni.com/article/getting-started-with-automation-2040-w)
 - :link: [Assembling Wireless Plasma Kit](https://learn.pimoroni.com/article/assembling-wireless-plasma-kit)
-- :link: [Getting Started with Badger 2040 W](https://learn.pimoroni.com/article/getting-started-with-badger-2040-w)
+- :link: [Getting Started with Badger 2040 W](https://learn.pimoroni.com/article/getting-started-with-badger-2040)
